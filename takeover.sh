@@ -8,9 +8,6 @@ white='\e[1;37m'
 red='\e[1;31m'
 yellow='\e[1;33m'
 
-uname=$(uname -a)
-version=$(uname -r)
-hostname=$(uname -n)
 
 echo -e "$yellow ===================================================="
 echo -e "$okegreen            Mass AutoTakeover Github               "
